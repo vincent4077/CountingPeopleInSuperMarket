@@ -1,2 +1,2 @@
 # CountingPeopleInSuperMarket
-This repo simply use yolo11 and coco dataset withou pretraining.
+This repo simply use yolo11 and coco dataset without pretraining.
